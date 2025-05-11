@@ -88,19 +88,6 @@ PlasmaX is a mobile application designed to streamline the management of plasma 
 
 ## 📽️ App Demo
 
-*Add screenshots here showing the following pages:*
-
-* **Donor Registration Form**
-
-  * Displaying the form where hospitals add donor details.
-
-* **Receiver Donor Search**
-
-  * Showing the page where receivers search for nearby plasma donors.
-
-* **Blood Group Distribution Chart**
-
-  * Visualization of plasma donor statistics.
-
+https://screenapp.io/app/#/shared/IIlEo9v-PX
 ---
 
