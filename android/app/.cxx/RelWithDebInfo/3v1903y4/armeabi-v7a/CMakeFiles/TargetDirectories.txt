@@ -1,0 +1,2 @@
+E:/PlasmaX/android/app/.cxx/RelWithDebInfo/3v1903y4/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/PlasmaX/android/app/.cxx/RelWithDebInfo/3v1903y4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
