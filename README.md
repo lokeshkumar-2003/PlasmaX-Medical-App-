@@ -1,7 +1,3 @@
-Here’s an updated and detailed `README.md` documentation based on your description of both **Donor** and **Receiver** sections. This will help explain the flow of the application, how the donor and receiver sections work, and how to use them. You can present this for an interview to explain the functionality.
-
----
-
 # 🩸 PlasmaX – Plasma Donation Management System
 
 PlasmaX is a mobile application designed to streamline the management of plasma donations. The app facilitates two main sections:
