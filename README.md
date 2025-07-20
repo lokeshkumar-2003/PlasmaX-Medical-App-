@@ -84,6 +84,7 @@ PlasmaX is a mobile application designed to streamline the management of plasma 
 
 ---
 
+dashboard(https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/dashboard.jpg)
 ## App Demo
 
 
