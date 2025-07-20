@@ -103,7 +103,7 @@ PlasmaX is a mobile application designed to streamline the management of plasma 
   <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/profile_page.jpg"  height="400"/>
   <h3>Donor by hospital and Centers</h3>
   <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/hospital_donors.jpg"  height="400"/>
- <h3>Receiver near by centers locatioin</h3>
+ <h3>Receiver near by centers location</h3>
   <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/near_by_hospitals.jpg"  height="400"/>
 
 
