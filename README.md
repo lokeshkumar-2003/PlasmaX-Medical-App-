@@ -88,23 +88,23 @@ PlasmaX is a mobile application designed to streamline the management of plasma 
 
   <h2>Project</h2>
   <h3>Home page</h3>
-  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/home_screen.jpg" height="200px" width="400px"/>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/home_screen.jpg"/>
   <h3>Signup Page</h3>
-  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/signup.jpg" height="200px" width="400px"/>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/signup.jpg"/>
   <h3>Login Page</h3>
-  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/login.jpg" height="200px" width="400px"/>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/login.jpg"/>
   <h3>Dashboard</h3>
-  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/dashboard.jpg" height="200px" width="400px"/>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/dashboard.jpg"/>
   <h3>Donor Or Receiver</h3>
-  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/donor_receiver.jpg" height="200px" width="400px"/>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/donor_receiver.jpg"/>
   <h3>Donor by persons List</h3>
-  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/donors_list.jpg" height="200px" width="400px"/>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/donors_list.jpg" />
  <h3>Hospital profile</h3>
-  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/profile_page.jpg" height="200px" width="400px"/>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/profile_page.jpg" />
   <h3>Donor by hospital and Centers</h3>
-  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/hospital_donors.jpg" height="200px" width="400px"/>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/hospital_donors.jpg" />
  <h3>Receiver near by centers locatioin</h3>
-  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/near_by_hospitals.jpg" height="200px" width="400px"/>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/PlasmaX-HealthApp/refs/heads/main/demo/near_by_hospitals.jpg" />
 
 
 
